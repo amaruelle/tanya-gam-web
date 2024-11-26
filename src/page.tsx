@@ -136,13 +136,13 @@ export default function PsychologistLanding() {
                 позволяющие реально разрешить ситуацию, а не ходить вокруг и около.
               </p>
               <div className="mt-6 space-x-4 space-y-2">
-                <Button asChild className="bg-[#B47A4C] hover:bg-[#96663E]"  target="_blank">
-                  <a href="https://dikidi.net/1086402?p=0.pi">Онлайн-запись на консультацию</a>
+                <Button asChild className="bg-[#B47A4C] hover:bg-[#96663E]">
+                  <a href="https://dikidi.net/1086402?p=0.pi" target="_blank">Онлайн-запись на консультацию</a>
                 </Button>
               </div>
               <div className="mt-2 space-x-4 space-y-2">
-                <Button asChild variant="outline" className="border-[#B47A4C] text-[#B47A4C]" >
-                  <a href="#contract">Контракт</a>
+                <Button asChild variant="outline" className="border-[#B47A4C] text-[#B47A4C]">
+                  <a href="#contract" target="_blank">Контракт</a>
                 </Button>
               </div>
             </div>
