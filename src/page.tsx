@@ -103,7 +103,7 @@ export default function PsychologistLanding() {
       {/* Hero Section */}
       <div className="relative h-[300px] w-full">
         <img
-          src="banner.png?height=300&width=1200"
+          src="https://utfs.io/f/qY9ynrCul7FXPrmnxaYMZDXEkQHtKBbYjzwGNWfvq9dpuO8L?height=300&width=1200"
           alt="Peaceful landscape illustration"
           width={1200}
           height={300}
@@ -115,7 +115,7 @@ export default function PsychologistLanding() {
       <div className="max-w-4xl mx-auto px-4 -mt-16 relative z-10">
         <div className="flex flex-col items-center">
           <img
-            src="avatar.png?height=128&width=128"
+            src="https://utfs.io/f/qY9ynrCul7FXadmIRLj2Sv1pbHYW0fUuEhxXIa3oAQMsPV95?height=128&width=128"
             alt="Profile photo"
             width={128}
             height={128}
@@ -290,7 +290,7 @@ export default function PsychologistLanding() {
 
             <div className="relative rounded-lg overflow-hidden">
               <img
-                src="side.jpeg?height=600"
+                src="https://utfs.io/f/qY9ynrCul7FXjtEHsz8rGd4RCI1sVyl7hvAp8NbiJ0OtmYBc?height=600"
                 alt="Психолог"
               />
             </div>
